@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "elm-dev": "nodemon --exec elm make client/src/HelloWorld.elm --output client/app.js",
+    "elm-dev": "nodemon --exec elm make client/src/MonsterRoledex.elm --output client/app.js",
     "node-dev": "nodemon server/src/app.js"
   },
   "author": "",
